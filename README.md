@@ -5,14 +5,11 @@ Deployed on Heroku.
 
 You can visit the website simply by clicking <a href="https://weilyu-face-recognition-app.herokuapp.com/" target="_blank">here</a>.
 
-<<<<<<< HEAD
-=======
-
-
-
-
->>>>>>> c6da0fcd2d77a7682eb9821f2c14774d32264558
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<img src="img/homepage.png">
+
+<img src="img/register.png">
 
 ## Available Scripts
 
