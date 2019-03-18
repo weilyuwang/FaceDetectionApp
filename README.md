@@ -1,3 +1,14 @@
+# Face Detection App
+
+An Web app to recognize faces in pictures. Users can register and sign in and have a record of how many faces they have detected.
+Deployed on Heroku.
+
+You can visit the website simply by clicking <a href="https://weilyu-face-recognition-app.herokuapp.com/" target="_blank">here</a>.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
